@@ -1,1 +1,3 @@
-function sampleJs(){}
+function sampleJs(){
+    console.log('priocess')
+}
